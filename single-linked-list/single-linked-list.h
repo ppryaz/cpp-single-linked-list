@@ -12,7 +12,6 @@
 template <typename Type>
 class SingleLinkedList {
 
-
 	// Узел списка
 	struct Node {
 		Node() = default;
